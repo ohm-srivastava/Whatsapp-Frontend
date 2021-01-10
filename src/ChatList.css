@@ -1,0 +1,13 @@
+.ChatList {
+    display: flex;
+    padding: 20px;
+    cursor: pointer;
+    border-bottom: 1px solid #f6f6f6;
+}
+.ChatList:hover {
+    background-color: whitesmoke;
+}
+
+.chat-info {
+    margin-left: 10px;
+}
